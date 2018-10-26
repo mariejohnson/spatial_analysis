@@ -51,3 +51,6 @@ for i, r in regions.iterrows():
 x = 1
 
 y = 2
+
+import matplotlib as plt
+fig, ax = plt.subplots()
