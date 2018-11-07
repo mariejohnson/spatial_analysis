@@ -1,14 +1,14 @@
 region,region_id,Black,Green,Gray,Red,RedandGray
-Aleutian Islands,1,48.0,8.0,22.0,32.0,54.0
-Arctic,2,3.0,13.0,8.0,8.0,16.0
-Bristol Bay,3,6.0,5.0,7.0,7.0,14.0
-Cook Inlet,9,72.0,302.0,213.0,474.0,687.0
-Copper River,5,0.0,31.0,62.0,112.0,174.0
-Kodiak,6,75.0,22.0,25.0,67.0,92.0
-Norton Sound,10,2.0,9.0,19.0,76.0,95.0
-Prince William Sound,11,4.0,6.0,17.0,16.0,33.0
-Southeast,12,35.0,201.0,193.0,296.0,489.0
-Yukon,13,30.0,123.0,72.0,206.0,278.0
-Chignik,4,0.0,0.0,0.0,0.0,0.0
-Kotzebue,7,0.0,0.0,0.0,0.0,0.0
-Kuskokwim,8,0.0,0.0,0.0,0.0,0.0
+Aleutian Islands,1,48,8,22,32,54
+Arctic,2,3,13,8,8,16
+Bristol Bay,3,6,5,7,7,14
+Cook Inlet,9,72,302,213,474,687
+Copper River,5,0,31,62,112,174
+Kodiak,6,75,22,25,67,92
+Norton Sound,10,2,9,19,76,95
+Prince William Sound,11,4,6,17,16,33
+Southeast,12,35,201,193,296,489
+Yukon,13,30,123,72,206,278
+Chignik,4,0,0,0,0,0
+Kotzebue,7,0,0,0,0,0
+Kuskokwim,8,0,0,0,0,0
